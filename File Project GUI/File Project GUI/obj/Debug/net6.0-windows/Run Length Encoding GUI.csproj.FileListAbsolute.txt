@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\Run Length Encoding GUI.exe
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\Run Length Encoding GUI.deps.json
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\Run Length Encoding GUI.runtimeconfig.json
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\Run Length Encoding GUI.dll
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\Run Length Encoding GUI.pdb
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File_Project_GUI.Form1.resources
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.AssemblyInfo.cs
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.dll
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\refint\Run Length Encoding GUI.dll
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.pdb
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\Run Length Encoding GUI.genruntimeconfig.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\ref\Run Length Encoding GUI.dll

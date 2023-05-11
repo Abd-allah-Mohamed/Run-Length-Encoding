@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\File Project GUI.exe
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\File Project GUI.deps.json
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\File Project GUI.runtimeconfig.json
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\File Project GUI.dll
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\bin\Debug\net6.0-windows\File Project GUI.pdb
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File_Project_GUI.Form1.resources
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.AssemblyInfo.cs
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.dll
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\refint\File Project GUI.dll
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.pdb
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\File Project GUI.genruntimeconfig.cache
+C:\Users\Dell\source\repos\File Project GUI\File Project GUI\obj\Debug\net6.0-windows\ref\File Project GUI.dll
